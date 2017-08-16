@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Networking API Django</string>
+    	<string name="load_data_string1">HttpURLConnection (w AsyncTask)</string>
+        <string name="load_data_string2">OkHttp3 Synchronous (w AsyncTask)</string>
+        <string name="load_data_string3">OkHttp3 Synchronous (w Runnable)</string>
+        <string name="load_data_string4">OkHttp3 Asynchronous</string>
+        <string name="load_data_string5">OkHttp3 Asynchronous Gson</string>
+
+</resources>
